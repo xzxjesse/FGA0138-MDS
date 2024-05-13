@@ -1,7 +1,7 @@
 # Resumão
 
 ## Software Architecture Partterns
-![Padrão de arquitetura de software](/FGA0138-MDS/dojo/img/padrão%20de%20arquitetura%20de%20software.gif)
+![Padrão de arquitetura de software](/imagens/padrão%20de%20arquitetura%20de%20software.gif)
 [Fonte](https://www.linkedin.com/posts/brijpandeyji_%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-activity-7139576994286952448-kYXD?utm_source=share&utm_medium=member_desktop)
 
 ### MVC (Model-View-Controller):
@@ -38,7 +38,7 @@ Projetado para aplicações grandes e complexas.
 
 #### Estrutura tabular
 dados organizados em tabelas com linhas e colunas, cada tabela tem um esquema definido com tipos de dados específicos para cada coluna.
-![Estrutura Banco Relacional](/FGA0138-MDS/dojo/img/estrutura%20banco%20relacional.png)
+![Estrutura Banco Relacional](/imagens/estrutura%20banco%20relacional.png)
 
 #### Esquema fixo
 esquema rígido e fixo, o que significa que a estrutura das tabelas (número de colunas, tipos de dados, relacionamentos) deve ser definida antecipadamente e mantida ao longo do tempo.
@@ -113,5 +113,5 @@ são mecanismos que permitem que dois componentes de software se comuniquem usan
 é um framework web para construção de APIs com Python.
 
 ### Integração
-![exemplo de integração](/FGA0138-MDS/dojo/img/exemplo%20integração.png)
-![arquitetura integração](/FGA0138-MDS/dojo/img/arquitetura%20integração.png)
+![exemplo de integração](/imagens/exemplo%20integração.png)
+![arquitetura integração](/imagens/arquitetura%20integração.png)
