@@ -103,6 +103,8 @@ são mecanismos que permitem que dois componentes de software se comuniquem usan
     - Funções: **GET, PUT, DELETE, PATCH...** 
     - HTTP: usado para troca de dados entre clientes e servidores 
 
+        ![Métodos HTTP request](/imagens/HTTP%20request.gif)
+
 - Privadas, públicas, de parceiros ou compostas.
 
 - **EndPoint:** são pontos de contato finais no sistema de comunicação da API.
